@@ -1,3 +1,3 @@
-# Welcome to My Website
+# NetAutoBlog
 
 This is the home of my personal website hosted on GitHub Pages.
